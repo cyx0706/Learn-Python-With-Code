@@ -1,0 +1,5 @@
+(0,0)
+DOWN 10
+RIGHT 2
+LEFT 3
+UP 1
